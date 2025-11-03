@@ -1,0 +1,10 @@
+.firstlayer{
+    display: flex;
+    justify-content: space-between;
+}
+.butn{
+    color: rgb(255, 255, 255);
+    background-color: black;
+    padding: 3px;
+    border-radius: 25%;
+}
