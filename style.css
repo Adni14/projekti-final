@@ -94,14 +94,16 @@
 
 .fourthlayer {
     display: flex;
-    justify-content: space-between;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
     padding: 0 200px;
 }
 
 .boxService{
-    background-color: rgb(240, 240, 240);
+    background-color: rgb(249, 249, 249);
     padding: 25px;
-    width: 400px;
+    width: 350px;
     display: flex;
     flex-direction: column;
     gap: 25px;
